@@ -78,11 +78,11 @@ def rename_pdf(extract_folder, rename_folder):
 
 # Parameter variables
 
-split_file = r\\FWTBFS03\Scans$\DWH_Report\LargeDollarDepositNotice\Notice of Delayed Availability.pdf
+split_file = r.pdf
 
-extract_folder = r\\FWTBFS03\Scans$\DWH_Report\LargeDollarDepositNotice\Extracted
+extract_folder = r\\Extracted
 
-rename_folder = r\\FWTBFS01\Operations$\Deposit Support\Procedures (UPDATED)\Exceptions Role\Notice of Delayed Availability
+rename_folder = r\\
 
  
 
